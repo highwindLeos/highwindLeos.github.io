@@ -108,7 +108,7 @@ author:
   avatar           : "/images/gavata-sirakawa.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Leos의 저장소 블로그입니다."
   location         : "Seoul R.Korea"
-  email            : "highwind26@gmail.com"
+  email            : #"highwind26@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
